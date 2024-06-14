@@ -1,0 +1,9 @@
+# Python dependencies
+pyperclip
+tkinter
+
+# System dependencies for Ubuntu setup
+cyberpanel
+docker-ce
+curl
+wget
